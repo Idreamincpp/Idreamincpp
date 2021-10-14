@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Idreamincpp
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any simple beginner program!
+- 👀 I’m a c++ developer
 - 📫 email me, I'm on grilledchicken85@gmail.com
 
 <!---
